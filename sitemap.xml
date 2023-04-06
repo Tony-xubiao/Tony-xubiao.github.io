@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xbxb123.com/about/index.html</loc>
+    
+    <lastmod>2023-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://xbxb123.com/repository/index.html</loc>
     
     <lastmod>2023-04-06</lastmod>
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://xbxb123.com/categories/index.html</loc>
+    <loc>http://xbxb123.com/links/index.html</loc>
     
     <lastmod>2023-04-06</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://xbxb123.com/links/index.html</loc>
+    <loc>http://xbxb123.com/categories/index.html</loc>
     
     <lastmod>2023-04-06</lastmod>
     
@@ -48,15 +57,6 @@
   
   <url>
     <loc>http://xbxb123.com/books/index.html</loc>
-    
-    <lastmod>2023-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://xbxb123.com/about/index.html</loc>
     
     <lastmod>2023-04-06</lastmod>
     
